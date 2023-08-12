@@ -14,6 +14,7 @@ namespace challenge3{
             FindMinMax(num);
             Console.WriteLine("TEST GITHUB");
             Console.WriteLine("TEST 2");
+            //test 3 C:
         }
     }
 }
