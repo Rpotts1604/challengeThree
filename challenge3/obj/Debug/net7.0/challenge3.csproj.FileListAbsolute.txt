@@ -1,0 +1,14 @@
+C:\dev\projects\c#\challengeThree\challenge3\bin\Debug\net7.0\challenge3.exe
+C:\dev\projects\c#\challengeThree\challenge3\bin\Debug\net7.0\challenge3.deps.json
+C:\dev\projects\c#\challengeThree\challenge3\bin\Debug\net7.0\challenge3.runtimeconfig.json
+C:\dev\projects\c#\challengeThree\challenge3\bin\Debug\net7.0\challenge3.dll
+C:\dev\projects\c#\challengeThree\challenge3\bin\Debug\net7.0\challenge3.pdb
+C:\dev\projects\c#\challengeThree\challenge3\obj\Debug\net7.0\challenge3.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\projects\c#\challengeThree\challenge3\obj\Debug\net7.0\challenge3.AssemblyInfoInputs.cache
+C:\dev\projects\c#\challengeThree\challenge3\obj\Debug\net7.0\challenge3.AssemblyInfo.cs
+C:\dev\projects\c#\challengeThree\challenge3\obj\Debug\net7.0\challenge3.csproj.CoreCompileInputs.cache
+C:\dev\projects\c#\challengeThree\challenge3\obj\Debug\net7.0\challenge3.dll
+C:\dev\projects\c#\challengeThree\challenge3\obj\Debug\net7.0\refint\challenge3.dll
+C:\dev\projects\c#\challengeThree\challenge3\obj\Debug\net7.0\challenge3.pdb
+C:\dev\projects\c#\challengeThree\challenge3\obj\Debug\net7.0\challenge3.genruntimeconfig.cache
+C:\dev\projects\c#\challengeThree\challenge3\obj\Debug\net7.0\ref\challenge3.dll
