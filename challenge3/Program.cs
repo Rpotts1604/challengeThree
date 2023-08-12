@@ -12,6 +12,7 @@ namespace challenge3{
         static void Main(string[] args){
             int[] num = new int[] { 3, 1, 2};
             FindMinMax(num);
+            Console.WriteLine("TEST GITHUB");
         }
     }
 }
